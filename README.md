@@ -13,5 +13,5 @@ A Codex skill for fixing dropdown and select components that escape modal bounda
 3. Start a new Codex session.
 
 ## Example prompt
-- ??????? Select ???????????
-- ?? modal ?? dropdown ????????
+- Fix a Select dropdown that renders behind the modal dialog.
+- Keep a modal dropdown inside the current dialog layer.
