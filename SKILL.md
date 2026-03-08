@@ -27,4 +27,4 @@ When a dropdown lives inside a dialog, the portal decision matters. Keep the com
 - Patching one screen without updating the shared select wrapper.
 
 ## Example
-Use when the user says: ?????????????????, ????? Select ??????, or ?modal ?? dropdown ?????.
+Use when the user says: "The switch-project dropdown renders behind the page", "a Select escapes the dialog layer", or "the modal dropdown stacking is wrong".
