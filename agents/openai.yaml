@@ -1,0 +1,3 @@
+interface:
+  display_name: "Fix Modal Select"
+  short_description: "Keep a select dropdown inside a dialog layer"
